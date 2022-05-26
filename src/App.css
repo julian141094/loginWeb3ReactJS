@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.centerContent{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ColPrimary{
+  background-color: #EAE7E7;
+  min-height: 100vh;
+}
+
+.logoContainer{
+  height: 18rem;
+}
+
+.loginButtonContainer{
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+.rowContainer{
+  text-overflow: clip;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+  
+.textSmall{
+  font-size: 10px;
+}
